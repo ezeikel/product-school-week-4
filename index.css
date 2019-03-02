@@ -1,0 +1,10 @@
+body {
+  font-family: 'Open Sans';
+}
+
+button {
+  padding: 16px;
+  background: palevioletred;
+  color: white;
+  cursor: pointer;
+}
